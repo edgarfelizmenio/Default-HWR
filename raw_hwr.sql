@@ -33,6 +33,8 @@ CREATE TABLE `Provider` (
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
+USE raw_hwr
+
 --
 -- Dumping data for table `Provider`
 --
